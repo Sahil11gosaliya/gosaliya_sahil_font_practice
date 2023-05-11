@@ -1,8 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1,h2,h3,h4,h5,h6 {font-family: 'Lobster Two', cursive;}
-p,a {font-family: 'Sansita Swashed', cursive;}  
+h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif;}
+p,a {font-family: 'Poppins', sans-serif;}  
+
 
 
 .hidden {
